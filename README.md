@@ -1,0 +1,1 @@
+Jogo simples em que um de três LEDs é escolhido aleatoreamente.
